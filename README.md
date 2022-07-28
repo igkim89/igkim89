@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Kim%20In%20Gyeom&fontAlign=30&fontAlignY=40&color=gradient)
 
-<h3 align=center>
+<h2>
   I Like
-</h3>
+</h2>
 
 <p align=center>
 
