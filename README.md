@@ -16,6 +16,15 @@ You can click the Preview link to take a look at your changes.
   <img src="svg/spring.svg" width="50" height="50">
 </p>
 
+<p>
+  <img src="svg/centos.svg" width="50" height="50">
+  <img src="svg/rockylinux.svg" width="50" height="50">
+  <img src="svg/docker.svg" width="50" height="50">
+  <img src="svg/kubernetes.svg" width="50" height="50">
+  <img src="svg/amazonaws.svg" width="50" height="50">
+</p>
+  
+
 
 
 <!--
