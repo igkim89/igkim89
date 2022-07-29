@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
   I've been
 </h2>
 
-
-![aws](svg/amazonaws.svg)
-
+<p>
+  <img src="svg/amazonaws.svg" width="50" height="50">
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
