@@ -24,7 +24,13 @@ You can click the Preview link to take a look at your changes.
   <img src="svg/amazonaws.svg" width="50" height="50">
 </p>
   
-
+<p>
+  <img src="svg/apachehadoop.svg" width="50" height="50">
+  <img src="svg/apachekafka.svg" width="50" height="50">
+  <img src="svg/mariadb.svg" width="50" height="50">
+  <img src="svg/postgresql.svg" width="50" height="50">
+  <img src="svg/redis.svg" width="50" height="50">
+</p>
 
 
 <!--
