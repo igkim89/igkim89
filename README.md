@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
   <img src="svg/apacheairflow.svg" width="50" height="50">
   <img src="svg/apachehive.svg" width="50" height="50">
   <img src="svg/apachespark.svg" width="50" height="50">
+  <img src="svg/nifi.svg" width="50" height="50">
 </p>
 
 <p>
