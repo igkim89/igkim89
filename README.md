@@ -30,8 +30,20 @@ You can click the Preview link to take a look at your changes.
   <img src="svg/mariadb.svg" width="50" height="50">
   <img src="svg/postgresql.svg" width="50" height="50">
   <img src="svg/redis.svg" width="50" height="50">
+  <img src="svg/ceph.svg" width="50" height="50">
+  <img src="svg/prometheus.svg" width="50" height="50">
 </p>
 
+<p>
+  <img src="svg/apacheairflow.svg" width="50" height="50">
+  <img src="svg/apachehive.svg" width="50" height="50">
+  <img src="svg/apachespark.svg" width="50" height="50">
+</p>
+
+<p>
+  <img src="svg/grafana.svg" width="50" height="50">
+  <img src="svg/jupyter.svg" width="50" height="50">
+</p>
 
 <!--
 <p>
