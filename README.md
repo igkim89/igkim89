@@ -11,9 +11,15 @@ You can click the Preview link to take a look at your changes.
 </h2>
 
 <p>
-  <img src="svg/amazonaws.svg" width="50" height="50">
+  <img src="svg/python.svg" width="50" height="50">
+  <img src="svg/java.svg" width="50" height="50">
+  <img src="svg/spring.svg" width="50" height="50">
 </p>
 
+
+
+<!--
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
+-->
